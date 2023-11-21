@@ -21,7 +21,7 @@ The React Linear Gauge provides a visually appealing way to view its pointers wi
 
 ## Related links
 [Learn More about React Linear Gauge](https://www.syncfusion.com/react-components/react-linear-gauge?utm_source=github&utm_medium=listing&utm_campaign=react-linear-gauge-github-samples)
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=react-linear-gauge-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-linear-gauge-github-samples)
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-linear-gauge-github-samples)
 [Documentation](https://ej2.syncfusion.com/react/documentation/linear-gauge/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-linear-gauge-github-samples)
 [View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-linear-gauge-component.git?utm_source=github&utm_medium=listing&utm_campaign=react-linear-gauge-github-samples)
